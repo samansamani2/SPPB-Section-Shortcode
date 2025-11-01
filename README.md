@@ -115,18 +115,13 @@ See [LICENSE](LICENSE) for more details.
 
 ---
 
-## 🌐 Official Page
-🔗 [https://yourwebsite.com/sppb-section-embed](https://yourwebsite.com/sppb-section-embed)
-
-*(Replace with your actual site or JED listing link.)*
 
 ---
 
 ## 👨‍💻 Author
-**Developer:** [Your Name or Team]  
-**Email:** [your@email.com]  
-**Website:** [https://yourwebsite.com](https://yourwebsite.com)  
-**GitHub:** [https://github.com/yourname/sppb-section-embed](https://github.com/yourname/sppb-section-embed)
+**Developer:** [Lmskaran Team]  
+**Email:** [samansamani2@yahoo.com]  
+
 
 ---
 
