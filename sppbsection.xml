@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="content" method="upgrade" version="4.0">
+    <name>plg_content_sppbsection</name>
+    <author>Lmskaran Team</author>
+    <version>1.0.0</version>
+    <description>Load a specific SP Page Builder section via shortcode.</description>
+    <files>
+        <filename plugin="sppbsection">sppbsection.php</filename>
+        <folder>language</folder>
+    </files>
+    <languages>
+        <language tag="en-GB">language/en-GB/en-GB.plg_content_sppbsection.ini</language>
+        <language tag="fa-IR">language/fa-IR/fa-IR.plg_content_sppbsection.ini</language>
+    </languages>
+    <config>
+        <fields name="params">
+            <fieldset name="basic">
+                <field name="enable_cache" type="radio" default="1" label="Enable cache" description="Cache rendered section HTML">
+                    <option value="1">JYES</option>
+                    <option value="0">JNO</option>
+                </field>
+                <field name="cache_time" type="number" default="900" label="Cache Time (seconds)" />
+            </fieldset>
+        </fields>
+    </config>
+</extension>
