@@ -119,7 +119,7 @@ See [LICENSE](LICENSE) for more details.
 ---
 
 ## 👨‍💻 Author
-**Developer:** [Lmskaran Team]  
+**Developer:** [Lmskaran Team]  Lmskaran.com
 **Email:** [samansamani2@yahoo.com]  
 
 
