@@ -1,1 +1,32 @@
-hello
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+  <!-- ===== نسخه جاری ===== -->
+  <update>
+    <name>Content - SPPB Section Embed</name>
+    <description>Embed any SP Page Builder section into Joomla articles using {sppb_section}.</description>
+
+    <!-- نوع و شناسه افزونه -->
+    <element>sppbsection</element>
+    <type>plugin</type>
+    <folder>content</folder>
+    <client>site</client>
+
+    <!-- نسخه منتشرشده -->
+    <version>1.0.0</version>
+    <infourl title="Release notes">https://github.com/samansamani2/SPPB-Section-Shortcode/releases/tag/v1.0.0</infourl>
+
+    <!-- لینک دانلود پکیج ZIP نصب افزونه -->
+    <downloads>
+      <downloadurl type="full" format="zip">
+        https://github.com/samansamani2/SPPB-Section-Shortcode/archive/refs/tags/v1.0.0.zip
+      </downloadurl>
+      <!-- درج چک‌سام توصیه می‌شود (اختیاری اما امتیاز مثبت در JED) -->
+      <!-- <checksum type="sha256">PUT_SHA256_HERE</checksum> -->
+    </downloads>
+
+    <!-- حداقل/حداکثر نسخه هسته جوملا که پشتیبانی می‌شود -->
+    <targetplatform name="joomla" version="&gt;=3.9 &lt;6" />
+  </update>
+
+ 
+</updates>
